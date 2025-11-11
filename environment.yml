@@ -1,0 +1,16 @@
+name: google-adk
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.13
+  - pip
+  - jupyter
+  - notebook
+  - ipython
+  - requests
+  - beautifulsoup4
+  - pip:
+      - google-adk
+      - python-dotenv
+      - mcp

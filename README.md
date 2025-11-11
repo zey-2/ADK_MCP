@@ -69,6 +69,10 @@ ADK_MCP/
 └── README.md                      # This file
 ```
 
+## Overview of the agent tools for each demo
+
+![Overview](Overview.png)
+
 ## Tool Types
 
 ### Function Tools
